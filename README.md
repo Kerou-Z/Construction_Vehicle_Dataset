@@ -7,3 +7,5 @@ Author intends to add more of other construction vehicles next.
 
 VOC format labels are in Annotation folder.
  yolo format labels are in Annotation_yolo folder.
+ 
+   ![excavator img example](cons_vehcl_dataset/jpgimages/101.jpg)
