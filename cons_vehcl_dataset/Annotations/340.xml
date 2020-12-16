@@ -1,0 +1,37 @@
+<annotation>
+	<folder>jpgimages</folder>
+	<filename>340.jpg</filename>
+	<path>/jpgimages/340.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3789</width>
+		<height>2882</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymin>715</ymin>
+			<xmax>1946</xmax>
+			<ymax>1830</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>465</xmin>
+			<ymin>1008</ymin>
+			<xmax>3018</xmax>
+			<ymax>2568</ymax>
+		</bndbox>
+	</object>
+</annotation>

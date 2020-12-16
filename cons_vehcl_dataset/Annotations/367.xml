@@ -1,0 +1,37 @@
+<annotation>
+	<folder>jpgimages</folder>
+	<filename>367.jpg</filename>
+	<path>/jpgimages/367.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1366</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>56</ymin>
+			<xmax>1274</xmax>
+			<ymax>1054</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1095</xmin>
+			<ymin>512</ymin>
+			<xmax>2031</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+</annotation>

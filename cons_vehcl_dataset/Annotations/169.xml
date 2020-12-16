@@ -1,0 +1,25 @@
+<annotation>
+	<folder>jpgimages</folder>
+	<filename>169.jpg</filename>
+	<path>/jpgimages/169.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>1857</ymin>
+			<xmax>5402</xmax>
+			<ymax>3708</ymax>
+		</bndbox>
+	</object>
+</annotation>

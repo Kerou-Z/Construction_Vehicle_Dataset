@@ -1,0 +1,37 @@
+<annotation>
+	<folder>jpgimages</folder>
+	<filename>381.jpg</filename>
+	<path>/jpgimages/381.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>5363</width>
+		<height>3575</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>25</ymin>
+			<xmax>3745</xmax>
+			<ymax>3575</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>2544</xmin>
+			<ymin>266</ymin>
+			<xmax>4632</xmax>
+			<ymax>3068</ymax>
+		</bndbox>
+	</object>
+</annotation>
